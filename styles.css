@@ -1,0 +1,29 @@
+body {
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  margin-top: 50px;
+}
+
+div {
+  margin: 20px 0;
+}
+
+button {
+  font-size: 20px;
+  padding: 5px 10px;
+}
+
+#timer-label {
+  font-size: 30px;
+}
+
+#time-left {
+  font-size: 60px;
+}
+
+#beep {
+  display: none;
+}
